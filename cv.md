@@ -12,7 +12,7 @@
 
 ### **Skills**
 
-* phyton(basic)
+* phyton(Basic)
 * JavaScript (Basic)
 * GIT
 * VS Code
