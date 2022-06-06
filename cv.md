@@ -2,8 +2,8 @@
 
 ### **Contact info**
 
-tel: +79313781633  
-mail: szefij@gmail.com
+* tel: +79313781633  
+* mail: szefij@gmail.com
 
 ****
 ### **About me**
@@ -11,10 +11,11 @@ mail: szefij@gmail.com
 ****
 
 ### **Skills**
-phyton(basic)
-JavaScript (Basic)
-GIT
-VS Code
+
+* phyton(basic)
+* JavaScript (Basic)
+* GIT
+* VS Code
 
 ****
 ### **Code example**
@@ -29,8 +30,8 @@ VS Code
 
 ****
 ### **Education and courses**
-Vitebsk State Technological University
+* Vitebsk State Technological University
 
 ****
 ### **English**
-Level A2. I continue to improve my English knowleg
+* Level A2. I continue to improve my English knowleg
