@@ -1,1 +1,1 @@
-https://Anatol1911.github.io/rsschool-cv/cv
+https://Anatol1911.github.io/rsschool-cv/
